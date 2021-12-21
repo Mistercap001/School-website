@@ -1,0 +1,91 @@
+header{
+    background-image: linear-gradient( aqua,pink);
+    text-align: center;
+    padding: 2.5%;
+    margin: 1%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav{
+    background-color: black;
+    padding: 2.5%;
+    display: flex;
+    border:2px solid grey;
+    justify-content: space-evenly;
+}
+
+nav a{
+    border-radius: 2px solid;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+nav a:hover{
+    color:tomato ;
+}
+
+h2{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: violet;
+    font-size: 25px;
+    margin: 5px;
+    border: 2px solid grey;
+}
+
+footer{
+    background-color: black;
+    margin: 4px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer a{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer a:hover{
+    color:crimson;
+}
+
+p{
+    text-align: center;
+    font-family: sans-serif;
+    color: darkcyan;
+}
+
+b{
+    color:mediumblue;
+    font-size: 20px;
+}
+
+p.lol{
+    text-align: left;
+    color: red;
+    
+}
+
+p.lmao{
+    text-align: left;
+    color: brown;
+}
+
+form{
+    border: 3px solid grey;
+    background-color: cornflowerblue;
+}
+
+input{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+table{
+    border: crimson;
+    
+}
